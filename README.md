@@ -1,6 +1,6 @@
 # 🌈 Unlimited Color Changer
 
-An elegant mini-project that dynamically changes the background color of a webpage every second using randomly generated HEX codes. The user can control the behavior with intuitive **Start** and **Stop** buttons.
+An elegant mini-project that dynamically changes the background color of a webpage every 500 mili-second using randomly generated HEX codes. The user can control the behavior with intuitive **Start** and **Stop** buttons.
 
 ---
 
