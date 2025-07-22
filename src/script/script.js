@@ -18,7 +18,7 @@ start.addEventListener('click', (e) => {
     if(intervalId === null){
         intervalId = setInterval(() => {
             body.style.backgroundColor = change()
-        }, 1000)
+        }, 500)
 
     }
 })
